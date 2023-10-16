@@ -52,6 +52,6 @@ stdenv.mkDerivation (finalAttrs: {
     license = licenses.mit;
     platforms = platforms.all;
     maintainers = [ maintainers.mic92 maintainers.lassulus maintainers.phaer ];
-    # blabla mic is actually a good guy
+    # mic is the original author of nixos-anywhere
   };
 })
